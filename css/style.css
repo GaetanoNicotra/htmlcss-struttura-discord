@@ -66,7 +66,7 @@ border: dotted black;
 
 .rettangolo1{
     background-color:#1E90FF;
-    height: 420px;
+    height: 400px;
     width: 42%;
     border: dotted black;
     
@@ -75,13 +75,37 @@ border: dotted black;
 
 .rettangolo2{
     background-color:#FFC0C9;
-    height: 420px;
+    height: 400px;
+    width: 18%;
+    border: dotted black;
+    margin-top: 35px;
+
+}
+ .backg-white{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+ }
+
+ .rettangolo3{
+    background-color:#1E90FF;
+    height: 400px;
+    width: 42%;
+    border: dotted black;
+    margin-top: 35px;
+    order: 1;
+}
+
+.rettangolo4{
+    background-color:#FFC0C9;
+    height: 400px;
     width: 18%;
     border: dotted black;
     margin-top: 35px;
 
 }
  .backg-gray{
+    background-color: #D3D3D3;
     display: flex;
     justify-content: center;
  }
