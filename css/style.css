@@ -170,5 +170,30 @@ ul>li {
     display: flex;
     justify-content: center;
     padding-bottom: 25px;
-    
+
+}
+
+.conteiner-footer{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    background-color:#77f3de;
+    display: flex;
+    justify-content: space-between
+}
+
+.logo{
+    background-color: #d188a4;
+    border: dotted black;
+}
+
+.button{
+    background-color: #d188a4;
+    border: dotted black;
+}
+
+.backg-footer{
+    background-color: #23272A;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
