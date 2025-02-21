@@ -69,7 +69,6 @@ border: dotted black;
     height: 400px;
     width: 42%;
     border: dotted black;
-    
     margin-top: 35px;
 }
 
@@ -84,7 +83,7 @@ border: dotted black;
  .backg-white{
     display: flex;
     justify-content: center;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
  }
 
  .rettangolo3{
@@ -108,4 +107,20 @@ border: dotted black;
     background-color: #D3D3D3;
     display: flex;
     justify-content: center;
+    padding-bottom: 30px;
  }
+
+ .rettangolo5{
+    background-color: #218B21;
+    height: 600px;
+    width: 45%;
+    border: dotted black;
+    margin: auto;
+ }
+
+ .backg-gray2{
+    background-color: #D3D3D3;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+ 
