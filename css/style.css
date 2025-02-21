@@ -12,33 +12,43 @@ padding: 5px;
 }
 
 .conteiner{
+    width: 1500px;
+ margin: 15px;
 height:auto;
-margin: 15px;
-width: 1500px;
 display: flex;
-justify-content: space-around;
-background-color: #DDA61C;
-   
+
 }
+   
 
 .intestazione{
- border: dotted black;
+}
+
+.column{
+background-color: #DDA61C;
 }
 
 .left {
- padding: 5px;
-
+    width: 20%;
+padding: 5px;
+border: dotted black;
 }
 
 .right{
+    width: 20%;
 padding: 5px;
+border: dotted black;
+text-align: right;
 }
 
 .center{
+    width: 60%;
+text-align: center;
 padding: 5px;
-
+border: dotted black;
 }
 
 .backg-azzurro{
-    background-color: aqua;
+    background-color:#a6e1f1;
+    justify-content: center;
+    display: flex;
 }
