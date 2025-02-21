@@ -12,15 +12,11 @@ padding: 5px;
 }
 
 .conteiner{
-    width: 1500px;
+width: 1500px;
  margin: 15px;
 height:auto;
 display: flex;
 
-}
-   
-
-.intestazione{
 }
 
 .column{
@@ -41,7 +37,7 @@ text-align: right;
 }
 
 .center{
-    width: 60%;
+width: 60%;
 text-align: center;
 padding: 5px;
 border: dotted black;
@@ -51,4 +47,19 @@ border: dotted black;
     background-color:#a6e1f1;
     justify-content: center;
     display: flex;
+}
+
+.pink{
+    background-color: pink;
+    height: 300px;
+    width: 40%;
+    border: dotted black;
+    margin:auto;
+    margin-top: 35px;
+}
+
+.back-blu{
+    background-color: blue;
+    padding-bottom: 22px;
+    padding-top: 12px;
 }
