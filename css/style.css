@@ -2,5 +2,31 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+ ul > li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    background-color: #DDA61C;
+   
+}
+
+.intestazione{
+ border: dotted black;
+}
+
+.left {
+    border: dotted black;
+}
+
+.center{
 
 }
