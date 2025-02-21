@@ -5,17 +5,19 @@
 }
 
  ul > li{
-    list-style: none;
-    display: inline-block;
-    padding: 5px;
+list-style: none;
+display: inline-block;
+padding: 5px;
     
 }
 
 .conteiner{
-    display: flex;
-    justify-content: space-around;
-    margin: 0;
-    background-color: #DDA61C;
+height:auto;
+margin: 15px;
+width: 1500px;
+display: flex;
+justify-content: space-around;
+background-color: #DDA61C;
    
 }
 
@@ -24,9 +26,19 @@
 }
 
 .left {
-    border: dotted black;
+ padding: 5px;
+
+}
+
+.right{
+padding: 5px;
 }
 
 .center{
+padding: 5px;
 
+}
+
+.backg-azzurro{
+    background-color: aqua;
 }
