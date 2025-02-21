@@ -11,7 +11,7 @@ ul>li {
 
 }
 
-.conteiner-header{
+.conteiner-header {
     width: 1500px;
     margin: 15px;
     height: auto;
@@ -129,7 +129,7 @@ ul>li {
     height: 400px;
     width: 10%;
     border: dotted white;
-    margin-top: 35px;
+    margin-top: 12px;
 }
 
 .rettangolo7 {
@@ -137,7 +137,7 @@ ul>li {
     height: 400px;
     width: 10%;
     border: dotted white;
-    margin-top: 35px;
+    margin-top: 12px;
 }
 
 .rettangolo8 {
@@ -145,7 +145,7 @@ ul>li {
     height: 400px;
     width: 10%;
     border: dotted white;
-    margin-top: 35px;
+    margin-top: 12px;
 }
 
 .rettangolo9 {
@@ -153,7 +153,7 @@ ul>li {
     height: 400px;
     width: 10%;
     border: dotted white;
-    margin-top: 35px;
+    margin-top: 12px;
 }
 
 .rettangolo10 {
@@ -161,11 +161,14 @@ ul>li {
     height: 400px;
     width: 10%;
     border: dotted white;
-    margin-top: 35px;
+    margin-top: 12px;
     display: inline-block;
 }
 
 .backg-darkgray {
+    background-color: #23272A;
     display: flex;
     justify-content: center;
+    padding-bottom: 25px;
+    
 }
